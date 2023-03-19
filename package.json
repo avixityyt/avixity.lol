@@ -18,7 +18,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "set PORT=1106 && react-scripts start",
+    "start": "PORT=1106 react-scripts start",
     "start:api": "node -v",
     "build": "react-scripts build",
     "test": "react-scripts test",
