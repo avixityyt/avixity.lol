@@ -27,6 +27,7 @@ function About() {
             Tech Stack:
             <hr></hr>
           </div>
+          <br/>
           <Technologies>
             {stackList.map((stack, index) => (
               <Stuff key={index} className="Stuff">
