@@ -23,7 +23,7 @@ export const stackList = [
   },
   {
 
-    img: "https://cdn-icons-png.flaticon.com/512/5968/5968509.png",
+    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087021610663416029/image-removebg-preview.png",
     name: "JavaScript",
   },
   {
@@ -64,7 +64,7 @@ export const stackList = [
   },
   {
 
-    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087019499938648205/image-removebg-preview.png",
+    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087023799779725312/image-removebg-preview.png",
     name: "NodeJS",
   },
   {
