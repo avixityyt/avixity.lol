@@ -27,5 +27,4 @@ export const Email = styled.div`
       margin-bottom: 0;
       font-size: 3rem;
     }
-  }
 `;

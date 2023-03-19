@@ -15,14 +15,18 @@ function Contact() {
             <h1>
               <a className="btn " style={{ background: 'transparent' }} href="mailto:avixityyt@gmail.com" target="_blank" rel="noopener noreferrer" > <FaMailBulk/> Send Mail </a>
             </h1>
-
+<br></br>
             <h1>
               <a className="btn " style={{ background: 'transparent' }} href="https://discord.com/users/459025800633647116" target="_blank" rel="noopener noreferrer" ><FaDiscord/>  Discord </a>
             </h1>
+            <br></br>
+
             <h1>
               <a className="btn " style={{ background: 'transparent' }} href="https://twitter.com/AvixityYT" target="_blank" rel="noopener noreferrer" > <FaTwitter/> Twitter</a>
 
             </h1>
+            <br></br>
+
             <h1>
               <a className="btn " style={{ background: 'transparent' }} href="https://github.com/avixityyt" target="_blank" rel="noopener noreferrer" ><FaGithub />  Gihub</a>
 
