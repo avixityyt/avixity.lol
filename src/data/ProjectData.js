@@ -64,7 +64,7 @@ export const stackList = [
   },
   {
 
-    img: "https://cdn-icons-png.flaticon.com/512/919/919825.png",
+    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087019499938648205/image-removebg-preview.png",
     name: "NodeJS",
   },
   {
@@ -76,7 +76,7 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/512/919/919831.png",
+    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087020034917929050/logo-b6e1ef6e.png",
     name: "SCSS",
   },
 ];
