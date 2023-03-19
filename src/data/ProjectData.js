@@ -14,20 +14,61 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://cdn-icons-png.flaticon.com/512/888/888859.png",
+    img: "https://cdn-icons-png.flaticon.com/512/1051/1051277.png",
     name: "HTML",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/512/5968/5968242.png",
+    img: "https://cdn-icons-png.flaticon.com/512/732/732190.png",
     name: "CSS",
   },
   {
 
-    img: "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+    img: "https://cdn-icons-png.flaticon.com/512/5968/5968509.png",
     name: "JavaScript",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/512/5745/5745404.png",
+
+    img: "https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
+    name: "TypeScript",
+  },
+  
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/5968/5968282.png",
+    name: "Java",
+  },
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/5105/5105667.png",
+    name: "Lua",
+  },
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+    name: "Python",
+  },
+  {
+
+    img: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png",
+    name: "GoLang",
+  },
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/6132/6132221.png",
+    name: "C#",
+  },
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/6132/6132222.png",
+    name: "C++",
+  },
+  {
+
+    img: "https://cdn-icons-png.flaticon.com/512/919/919825.png",
+    name: "NodeJS",
+  },
+  {
+    img: "https://cdn-icons-png.flaticon.com/512/3334/3334886.png",
     name: "ReactJS",
   },
   {
@@ -36,14 +77,6 @@ export const stackList = [
   },
   {
     img: "https://cdn-icons-png.flaticon.com/512/919/919831.png",
-    name: "Scss",
-  },
-  {
-    img: "https://cdn-icons.flaticon.com/png/512/4494/premium/4494748.png?token=exp=1646557013~hmac=a02fc104cdf0e4a4f7f53af5f5fcffc1",
-    name: "Git",
-  },
-  {
-    img: "https://cdn-icons.flaticon.com/png/128/2703/premium/2703934.png?token=exp=1646557066~hmac=dd588cfcff6c42fb2b0dd8aa711cc9f1",
-    name: "Responsive WEB Design",
+    name: "SCSS",
   },
 ];
