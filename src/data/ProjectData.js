@@ -64,7 +64,7 @@ export const stackList = [
   },
   {
 
-    img: "https://cdn.discordapp.com/attachments/898041849783148585/1087023799779725312/image-removebg-preview.png?size=256",
+    img: "https://img.icons8.com/color/256/nodejs.png",
     name: "NodeJS",
   },
   {

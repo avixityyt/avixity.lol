@@ -26,7 +26,8 @@ function Footer() {
           Made with ❤ by {" avixity "}
           <br>
           </br>
-          
+          © 2023 AVIXITY. All Rights Reserved.
+
         </span>
       </div>
     </FooterSection>
